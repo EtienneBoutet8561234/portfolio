@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 20px;
+  }
+  
+  h1 {
+    color: black;
+  }
+  
+  .purple-text {
+    color: #800080;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
